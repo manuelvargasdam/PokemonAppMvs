@@ -24,7 +24,7 @@ La aplicación **PokemonApp** es una herramienta móvil diseñada para los entus
 
 ### Clonar el repositorio
 
-git clone https://github.com/tu-repositorio/pokemonapp.git
+git clone https://github.com/manuelvargasdam/PokemonAppMvs.git
 
 ## Configuración del entorno
 
