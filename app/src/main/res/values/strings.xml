@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <string name="pokemon_image">Pokemon Image</string>
+    <string name="delete_pokemon">Eliminar Pokemon</string>
+    <string name="back_button">Volver</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="pokemon_captured">Pokemon Capturados</string>
+    <string name="logout_confirmation_message">¿Estás seguro de que deseas cerrar sesión?</string>
+    <string name="languaje">Idioma</string>
+    <string name="delete_my_pokemon">Eliminar mis pokemon</string>
+    <string name="about">Acerca de</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="language">Idioma</string>
+    <string name="language_title">Idioma de la app</string>
+    <string name="language_switch_text">Inglés/Español</string>
+    <string name="about_title">Acerca de</string>
+    <string name="about_message">Desarrollador: Manuel Vargas Soriano\nVersión: 1.0.0</string>
+    <string name="close">Cerrar</string>
+    <string name="spanish_enabled">Español activado</string>
+    <string name="english_enabled">Inglés activado</string>
+    <string name="allow_deletion_title">Permitir eliminar Pokémon</string>
+    <string name="switch_activate_deletion">Activar/Desactivar</string>
+    <string name="deletion_enabled">Eliminación activada</string>
+    <string name="deletion_disabled">Eliminación desactivada</string>
+    <string name="pokemon_name">Nombre: %s</string>
+    <string name="pokemon_type">Tipos: %s</string>
+    <string name="pokemon_index">Índice: %s</string>
+    <string name="pokemon_weight">Peso: %s</string>
+    <string name="pokemon_height">Altura: %s</string>
+    <string name="tab_captured">Capturados</string>
+    <string name="tab_pokedex">Pokédex</string>
+    <string name="tab_settings">Ajustes</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="deleted">eliminado</string>
+    <string name="is_captured">ya está capturado</string>
+</resources>

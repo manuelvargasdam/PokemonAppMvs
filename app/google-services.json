@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "491286876472",
+    "project_id": "pokemonappmvs",
+    "storage_bucket": "pokemonappmvs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491286876472:android:3ffe56e225ba679c32f1cd",
+        "android_client_info": {
+          "package_name": "com.tarea3.pokemonappmvs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491286876472-s9f4c708ruai7fcnqn0goq4ih2hrvf26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgikGoRMlPHiOdAsxw01TDTYH8OMF4Hog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491286876472-1dg915n69tdag4icd3tg8lm2e55fai0t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

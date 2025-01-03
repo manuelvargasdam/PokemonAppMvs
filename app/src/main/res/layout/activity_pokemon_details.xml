@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:padding="5dp">
+
+    <!-- Botón de flecha para volver atrás -->
+    <ImageButton
+        android:id="@+id/back_button"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_gravity="start"
+        android:layout_marginTop="10dp"
+        android:background="@android:color/transparent"
+        android:src="@android:drawable/ic_menu_revert"
+        android:contentDescription="@string/back_button" />
+
+    <!-- Imagen del Pokémon -->
+    <ImageView
+        android:id="@+id/pokemon_image_detail"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="10dp"
+        android:contentDescription="@string/pokemon_image" />
+
+    <!-- Nombre del Pokémon -->
+    <TextView
+        android:id="@+id/pokemon_name_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:textAlignment="center" />
+
+
+    <!-- Indice del Pokémon -->
+    <TextView
+        android:id="@+id/pokemon_index_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textSize="16sp"
+        android:textAlignment="center" />
+
+    <!-- Tipo del Pokémon -->
+    <TextView
+        android:id="@+id/pokemon_type_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textSize="18sp"
+        android:textAlignment="center" />
+
+
+
+    <!-- Peso del Pokémon -->
+    <TextView
+        android:id="@+id/pokemon_weight_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textSize="16sp"
+        android:textAlignment="center" />
+
+    <!-- Altura del Pokémon -->
+    <TextView
+        android:id="@+id/pokemon_height_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textSize="16sp"
+        android:textAlignment="center" />
+</LinearLayout>
